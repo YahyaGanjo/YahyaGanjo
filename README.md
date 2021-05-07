@@ -1,4 +1,4 @@
-### Here are some ideas to get you started:</br>
+### Here are some about me:</br>
 - 🔭 I’m currently more into the **JavaScript**
 - 🌱 I’m currently learning **Node JS.**
 - 👯 I’m looking to **do as much projects as I can in 2021**
