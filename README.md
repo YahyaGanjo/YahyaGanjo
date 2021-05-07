@@ -39,6 +39,8 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 
 <br>
 
+### 🤝 Connect with me:
+
 <a href="https://www.linkedin.com/in/yahya-ganjo-/">
   <img align="left" alt="Yahya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
