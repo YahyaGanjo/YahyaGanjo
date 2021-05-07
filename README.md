@@ -18,5 +18,5 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaGanjo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaGanjo&show_icons=true&theme=radical)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&layout=compact)]
