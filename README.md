@@ -35,7 +35,7 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&theme=radical)
 
 <br>
 
