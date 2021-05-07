@@ -36,6 +36,8 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 
 <br>
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=Homework-class32)
+
 
 ### 🤝 Connect with me:
 
