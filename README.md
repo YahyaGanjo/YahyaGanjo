@@ -18,4 +18,4 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaGanjo)](https://github.com/anuraghazra/github-readme-stats)
