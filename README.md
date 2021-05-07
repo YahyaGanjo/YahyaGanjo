@@ -3,7 +3,7 @@
 <br/>
 
 <p>
-A student at HackYourFuture 🚀 such an amazing coding bootcamp.
+A student at HackYourFuture 🚀 such an amazing coding Bootcamp.
 <br/>
 I'm deeply engaged with basics of Javascript and web development right now.
 <br/>  
