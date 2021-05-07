@@ -31,13 +31,10 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
-![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaGanjo&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&theme=radical)
+![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaGanjo&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&theme=radical)
 
 <br>
 
-[patreon Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=Homework-class32)(https://github.com/YahyaGanjo/Homework-class32)
 
 ### 🤝 Connect with me:
 
