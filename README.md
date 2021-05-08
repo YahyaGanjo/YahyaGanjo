@@ -13,7 +13,7 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 
 ### Here are some about me:</br>
 - 🔭 I’m currently more into the **JavaScript**
-- 🌱 I’m currently learning **Node JS.**
+- 🌱 My next step is learning **Node JS.**
 - 👯 I’m looking to **do as much projects as I can in 2021**
 - 💬 Ask me about **Anything you can think of.**
 
