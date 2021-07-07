@@ -36,8 +36,8 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 
 <br>
 
-[![Homework Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=Homework-class32&theme=radical)](https://github.com/YahyaGanjo/Homework-class32)
-[![Patreon Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=PATREON-clone&theme=radical)](https://github.com/YahyaGanjo/PATREON-clone)
+[![Traveller's Guide Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=Traveller-s-Guide&theme=radical)](https://github.com/YahyaGanjo/Traveller-s-Guide)
+[![GitFetch Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=GitFetch&theme=radical)](https://github.com/YahyaGanjo/GitFetch)
 
 
 
