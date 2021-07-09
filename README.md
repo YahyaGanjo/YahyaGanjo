@@ -32,7 +32,7 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 </br></br></br></br>
 
 [![Yahya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YahyaGanjo&show_icons=true&theme=radical)](https://github.com/YahyaGanjo/YahyaGanjo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&theme=radical)](https://github.com/YahyaGanjo/YahyaGanjo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaGanjo&theme=radical)](https://github.com/YahyaGanjo)
 
 <br>
 
