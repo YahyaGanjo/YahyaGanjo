@@ -37,7 +37,7 @@ My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in
 <br>
 
 [![Traveller's Guide Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=Traveller-s-Guide&theme=radical)](https://github.com/YahyaGanjo/Traveller-s-Guide)
-[![GitFetch Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=GitFetch&theme=radical)](https://github.com/YahyaGanjo/GitFetch)
+[![Yahya's Languages](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=GitFetch&theme=radical)](https://github.com/YahyaGanjo/GitFetch)
 
 
 
