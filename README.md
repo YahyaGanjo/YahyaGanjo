@@ -13,21 +13,21 @@ My goal is to become a senior front-end developer in the future ❤️.
 
 ### Here are some about me:</br>
 - 🔭 I’m currently more into **React**
-- 🌱 My next step is learning **Full MERN stack projects**
+- 🌱 My next step is **Full MERN stack projects**
 - 👯 I’m looking for **Internship/Jop** so that I can start my career.
 - 💬 Ask me about **Anything you can think of.**
 
 ### I know more about- </br>
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
@@ -36,6 +36,7 @@ My goal is to become a senior front-end developer in the future ❤️.
 
 <br>
 
+[![React Meals Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=FoodOrderApp&theme=radical)](https://github.com/YahyaGanjo/FoodOrderApp)
 [![Traveller's Guide Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=Traveller-s-Guide&theme=radical)](https://github.com/YahyaGanjo/Traveller-s-Guide)
 [![Ebook-sales-app Card](https://github-readme-stats.vercel.app/api/pin/?username=YahyaGanjo&repo=Ebook-sales-app&theme=radical)](https://github.com/YahyaGanjo/Ebook-sales-app)
 
