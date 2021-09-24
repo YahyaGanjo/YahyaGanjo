@@ -5,16 +5,16 @@
 <p>
 A student at HackYourFuture 🚀 such an amazing coding Bootcamp.
 <br/>
-I'm deeply engaged with basics of Javascript and web development right now.
+I'm deeply engaged in React and NodeJs right now.
 <br/>  
-My goal is to become a full-stack dveloper 💸 or an Open Source Contributor in the future ❤️.
+My goal is to become a senior front-end developer in the future ❤️.
 </p>
 
 
 ### Here are some about me:</br>
-- 🔭 I’m currently more into **Node JS**
-- 🌱 My next step is learning **React**
-- 👯 I’m looking to **do as much projects as I can in 2021**
+- 🔭 I’m currently more into **React**
+- 🌱 My next step is learning **Full MERN stack projects**
+- 👯 I’m looking for **Internship/Jop** so that I can start my career.
 - 💬 Ask me about **Anything you can think of.**
 
 ### I know more about- </br>
