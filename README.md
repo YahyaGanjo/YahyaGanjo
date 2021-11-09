@@ -12,7 +12,7 @@ My goal is to become a senior front-end developer in the future ❤️.
 
 
 ### Here are some about me:</br>
-- 🔭 I’m currently more into **React**
+- 🔭 I’m currently more into **Redux**
 - 🌱 My next step is to learn **SASS, AngularJS, TypeScript and GraphQL**
 - 👯 I’m looking for **Internship/Jop** so that I can start my career.
 - 💬 Ask me about **Anything you can think of.**
