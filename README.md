@@ -3,7 +3,7 @@
 <br/>
 
 <p>
-A student at HackYourFuture 🚀 such an amazing coding Bootcamp.
+A fresh grad from amazing coding Bootcamp 'HackYourFuture' 🚀 .
 <br/>
 I'm deeply engaged in React and NodeJs right now.
 <br/>  
