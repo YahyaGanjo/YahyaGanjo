@@ -3,7 +3,7 @@
 <br/>
 
 <p>
-A curious (Automation) QA Engineer 🚀 .
+Curious (Automation) QA Engineer 🚀 .
 
 ### 🤝 Connect with me:
 
